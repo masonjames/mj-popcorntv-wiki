@@ -34,7 +34,7 @@ SSL Web: listening on 10.0.1.2:443
 
 Step 1. Go to your Apple TV and select the settings Application.  
 Step 2. Select General > Network > "Your Network" > "Your network" again. You should end on a page that says "Wifi Configuration" at the top. (It might also say "Ethernet Configuration", this is normal and OK)  
-Step 3. Go down to "Configure DNS" and set it to Manual, then enter in the local IP address of your Computer that is running PopcornTV. In my case it was "10.0.1.2".  
+Step 3. Go down to "Configure DNS" and set it to Manual, then enter in the local IP address of your Computer that is running PopcornTV. In my case it was "10.0.1.2". (You will see that the DNS setting has 3 spaces for each section, for me since my IP is "10.0.1.2", I would put "010.000.001.002" in the spaces, just add zeros where needed.)  
 Step 4. Once the DNS is set, menu out back to the "General" page.  
 Step 5. Scroll down to where it says "Send Data to Apple" and select it then set it to "No"  
 Step 6. Once your setting says "No", while hovering over "Send Data to Apple" (like shown in the image below) press the "Play/Pause" button on your Apple TV remote. It will open up a screen that we will use in the next window.  
