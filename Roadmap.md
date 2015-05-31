@@ -13,6 +13,7 @@
 [ ] Add Anime Support
 [ ] Add Option to either Delete or Keep Videos Downloaded
 [ ] Add "Watch Later" to save movies and TV shows that you either want to subscribe to or watch at a later date.
+[ ] Add a GUI to the program?
 ```
 
 # Ideas
