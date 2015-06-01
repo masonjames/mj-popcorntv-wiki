@@ -2,7 +2,7 @@
 
 Step 1. Download Popcorn TV or Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide. (To be added)]()  
 Step 2. Drag PopcornTV to your desktop (and extract it if you downloaded the zip). Rename it "PopcornTV".
-Step 3. Open Terminal or the Command prompt and enter the commands below.
+Step 3. Open Terminal and enter the commands below.
 ```sh
 $ cd Desktop
 $ cd PopcornTV
