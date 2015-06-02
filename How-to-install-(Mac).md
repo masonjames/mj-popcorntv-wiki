@@ -1,6 +1,6 @@
 ## Section 1: Preparing the Application
 
-Step 1. Download Popcorn TV or Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide. (To be added)]()  
+Step 1. Download Popcorn TV or Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide.](https://github.com/OstlerDev/PopcornTV/wiki/How-to-Clone-the-Project)  
 Step 2. Drag PopcornTV to your desktop (and extract it if you downloaded the zip). Rename it "PopcornTV".
 Step 3. Open Terminal and enter the commands below.
 ```sh
