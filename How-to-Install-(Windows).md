@@ -1,3 +1,4 @@
+If you would prefer to watch a video that goes along with this, please click [here.](https://www.youtube.com/watch?v=x_A58Ttvjd0)
 ## Section 1: Preparing the Application
 
 Step 1. Download Popcorn TV or Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide. (To be added)]()  
