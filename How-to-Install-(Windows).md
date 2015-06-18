@@ -38,3 +38,5 @@ Step 8. On the "Add Profile" page it should pull up a text box. Type in "http://
 ## Section 3: Wrapping Up
 
 You are now done with the installation! Just make sure PopcornTV is running whenever you wish to use it!
+
+PopcornTV runs inside the Trailers application on your Apple TV. Just open the trailers application to begin.
