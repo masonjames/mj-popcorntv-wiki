@@ -3,16 +3,16 @@
 ```
 [X] Add more movie libraries
 [X] Redo layout
-[-] Add TV Show Support (Requires work with FFMPEG & Magnet URL Bug fix)
+[X] Add TV Show Support
 [X] Implement Certificate Generation
 [ ] Add more dynamic loading to load more then 50 results
 [ ] Add VPN support(?)
 [ ] Add Quality selection
-[ ] Add Settings
+[X] Add Settings
 [ ] Look into Subtitle Support
 [ ] Add Anime Support
-[ ] Add Option to either Delete or Keep Videos Downloaded
-[ ] Add "Watch Later" to save movies and TV shows that you either want to subscribe to or watch at a later date.
+[X] Add Option to either Delete or Keep Videos Downloaded
+[X] Add "Watch Later" to save movies and TV shows that you either want to subscribe to or watch at a later date.
 [ ] Add a GUI to the program?
 ```
 
