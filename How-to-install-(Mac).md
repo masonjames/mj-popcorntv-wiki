@@ -13,8 +13,7 @@ Step 4. On the first run it will generate the certificates needed to run the app
 ```sh
 $ sudo node atv.js
 ```
-Step 5. It will create a file named "config.json" and auto fill it with your local IP.
-Step 6. Run the program again. If you see something like below then you are ready to move on.
+Step 5. It will create a file named "config.json" and auto fill it with your local IP. It should also start up the application automatically again. If it shows something similar to below with no errors you are good to move forward.
 ```
 Starting PopcornTV
 DnsProxy binding on 10.0.1.2:53
