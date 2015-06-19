@@ -13,8 +13,8 @@ Step 4. On the first run it will generate the certificates needed to run the app
 ```sh
 $ sudo node atv.js
 ```
-Step 5. It will create a file named "config.json" open it up and change "10.0.1.2" to your local IP address. (can be found in Network Configuration in the System Preferences App)
-Step 6. Safe config.json then run the program again. If you see something like below then you are ready to move on.
+Step 5. It will create a file named "config.json" and auto fill it with your local IP.
+Step 6. Run the program again. If you see something like below then you are ready to move on.
 ```
 Starting PopcornTV
 DnsProxy binding on 10.0.1.2:53
