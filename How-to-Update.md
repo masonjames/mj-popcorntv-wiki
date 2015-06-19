@@ -1,6 +1,6 @@
 ## Updating using Git
 
-If when you first downloaded and installed the project you just cloned the git repository, all you will need to do is run the following command, then you will be up to date!
+If when you first downloaded and installed the project you just cloned the git repository, all you will need to do is run the following command, then you will be up to date! (you may also need to update your NPM packages if you have not updated in a while)
 ```
 $ git pull
 ```
