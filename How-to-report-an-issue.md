@@ -8,3 +8,5 @@ You need to report an issue and all of the troubleshooting steps are not working
 6. Upload the contents of ``PopcornTV.log`` to a [Github Gist](http://gist.github.com) or onto [Pastebin](http://pastebin.com)
 7. Upload the contents of ``aTVSettings.json`` to a [Github Gist](http://gist.github.com) or onto [Pastebin](http://pastebin.com)
 8. [Report](https://github.com/OstlerDev/PopcornTV/issues/new) how to repeat the error in the issue as well as the outcome that you expected to get. Please be sure to include a link to the log and settings file that you uploaded to [Gist](http://gist.github.com) or onto [Pastebin](http://pastebin.com).
+
+Note: When running in Debug mode all logs are sent up to the logging server. The logs are kept for 7 days then deleted permanently.
