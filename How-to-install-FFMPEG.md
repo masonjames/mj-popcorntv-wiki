@@ -1,4 +1,4 @@
-# Windows (Untested)
+# Windows
 
 1. Download a static build of FFMPEG from: http://ffmpeg.zeranoe.com/builds/
 2. Extract the build (it should be in a .7z file).
