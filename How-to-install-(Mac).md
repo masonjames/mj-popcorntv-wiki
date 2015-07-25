@@ -1,3 +1,6 @@
+## Step 0
+As stated on the previous install page, you MUST install Nodejs from [nodejs.org](https://nodejs.org). If you do not install this IT WILL NOT WORK.
+
 ## Section 1: Preparing the Application
 
 Step 1. Download Popcorn TV or Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide.](https://github.com/OstlerDev/PopcornTV/wiki/How-to-Clone-the-Project)  
