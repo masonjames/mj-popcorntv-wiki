@@ -1,6 +1,8 @@
 ## Step 0
 As stated on the previous install page, you MUST install Nodejs from [nodejs.org](https://nodejs.org). If you do not install this IT WILL NOT WORK.
 
+If you are running Windows 10, please either Disable the service `` `` or run ``net stop`` from CMD.
+
 If you would prefer to watch a video that goes along with this, please click [here.](https://www.youtube.com/watch?v=x_A58Ttvjd0)
 ## Section 1: Preparing the Application
 
