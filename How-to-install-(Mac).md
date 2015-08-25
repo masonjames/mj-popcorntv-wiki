@@ -3,20 +3,15 @@ As stated on the previous install page, you MUST install Nodejs from [nodejs.org
 
 ## Section 1: Preparing the Application
 
-Step 1. Download Popcorn TV or Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide.](https://github.com/OstlerDev/PopcornTV/wiki/How-to-Clone-the-Project)  
-Step 2. Drag PopcornTV to your desktop (and extract it if you downloaded the zip). Rename it "PopcornTV".  
-Step 3. Open Terminal and enter the commands below.
+Step 1. Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide.](https://github.com/OstlerDev/PopcornTV/wiki/How-to-Clone-the-Project)  
+Step 2. Open Terminal and enter the commands below.
 ```sh
 $ cd Desktop
 $ cd PopcornTV
 $ sudo npm install
 $ sudo node atv.js
 ```
-Step 4. On the first run it will generate the certificates needed to run the application, once those are generated restart the program again using the following command.
-```sh
-$ sudo node atv.js
-```
-Step 5. It will create a file named "config.json" and auto fill it with your local IP. It should also start up the application automatically again. If it shows something similar to below with no errors you are good to move forward.
+Step 3. If it shows something similar to below with no errors you are good to move forward.
 ```
 Starting PopcornTV
 DnsProxy binding on 10.0.1.2:53
