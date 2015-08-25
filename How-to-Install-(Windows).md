@@ -6,33 +6,28 @@ If you are running Windows 10, please either Disable the service ``World Wide We
 If you would prefer to watch a video that goes along with this, please click [here.](https://www.youtube.com/watch?v=x_A58Ttvjd0)
 ## Section 1: Preparing the Application
 
-Step 1. Download Popcorn TV or Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide. (To be added)]()  
-Step 2. Drag PopcornTV to your desktop (and extract it if you downloaded the zip). Rename it "PopcornTV".  
-Step 3. Open the Command prompt and enter the commands below.
+Step 1. Clone the Repository. For ease of updating I suggest that you clone the repository, if you do not know how to do that then please follow this [guide.](https://github.com/OstlerDev/PopcornTV/wiki/How-to-Clone-the-Project)  
+Step 2. Open the Command prompt and enter the commands below.
 ```sh
 $ cd Desktop
 $ cd PopcornTV
 $ npm install
 $ node atv.js
 ```
-Step 4. Next we need to generate the certificate for windows, there is currently a bug so please follow [this guide](https://github.com/OstlerDev/PopcornTV/issues/11#issuecomment-107713666) on how to generate and copy them. Once you do that restart the program with the command below.
-```sh
-$ node atv.js
-```
-Step 5. It will create a file named "config.json" open it up and change "10.0.1.2" to your local IP address. (can be found in Network Configuration in the System Preferences App)
-Step 6. Safe config.json then run the program again. If you see something like below then you are ready to move on.
+Step 3. If you see something like below then you are ready to move on. (Only stop if there are errors. If there is an error please follow what the error is saying)
 ```
 Starting PopcornTV
 DnsProxy binding on 10.0.1.2:53
 Web: listening on 10.0.1.2:80
 SSL Web: listening on 10.0.1.2:443
+Starting Commit: (numbers and chars)
 ```
 
 ## Section 2: Preparing your Apple TV
 
 Step 1. Go to your Apple TV and select the settings Application.  
 Step 2. Select General > Network > "Your Network" > "Your network" again. You should end on a page that says "Wifi Configuration" at the top. (It might also say "Ethernet Configuration", this is normal and OK)  
-Step 3. Go down to "Configure DNS" and set it to Manual, then enter in the local IP address of your Computer that is running PopcornTV. In my case it was "10.0.1.2". (You will see that the DNS setting has 3 spaces for each section, for me since my IP is "10.0.1.2", I would put "010.000.001.002" in the spaces, just add zeros where needed.)  
+Step 3. Go down to "Configure DNS" and set it to Manual, then enter in the **local IP address of your Computer** that is running PopcornTV (it should show this in CMD). In my case it was "10.0.1.2". (You will see that the DNS setting has 3 spaces for each section, for me since my IP is "10.0.1.2", I would put "010.000.001.002" in the spaces, just add zeros where needed.)  
 Step 4. Once the DNS is set, menu out back to the "General" page.  
 Step 5. Scroll down to where it says "Send Data to Apple" and select it then set it to "No"  
 Step 6. Once your setting says "No", while hovering over "Send Data to Apple" (like shown in the image below) press the "Play/Pause" button on your Apple TV remote. It will open up a screen that we will use in the next window.  
